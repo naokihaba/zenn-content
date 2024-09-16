@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/naokis-practice-project/zenn-content#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.153"
+    "zenn-cli": "^0.1.155"
   }
 }
