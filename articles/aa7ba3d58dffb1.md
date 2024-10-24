@@ -9,13 +9,13 @@ publication_name: "comm_vue_nuxt"
 
 # はじめに
 
-Nuxt・Vue.jsの学習を始めたい方に朗報です！
+Nuxt・Vue の学習を始めたい方に朗報です！
 この度、[Anthony Fu](https://github.com/antfu) さんと Vue Fes Japan のコラボレーションで、Nuxt Tutorial が公開されました。
 この記事では、Vue Fes Japan 2024 で公開された Nuxt Tutorial の特徴をハンズオン企画に参加した感想を交えて紹介します。
 
 ## Nuxt Tutorial とは？
 
-Nuxt Tutorial は、Vue.js Japan公式が提供するNuxtの入門者向けチュートリアルです。Vue Fes Japan 2024のハンズオン企画の一環として開発され、イベント当日にパブリックリポジトリとして公開されました。
+Nuxt Tutorial は、Vue Fes Japan 2024のハンズオン企画の一環として開発され、イベント当日にパブリックリポジトリとして公開されました。
 
 公式チュートリアルはこちらからアクセスできます：
 
