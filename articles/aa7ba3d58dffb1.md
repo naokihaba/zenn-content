@@ -27,10 +27,10 @@ https://github.com/vuejs-jp/learn.nuxt.com
 
 ## チュートリアルの特徴と学習内容
 
-### 1. Vue.jsの基礎からNuxtの基本まで
+### 1. Vue の基礎から Nuxt の基本まで
 
-とりあえずNuxtを触ってみるというよりは、Nuxtを理解するための基礎を体系的に学べる構成になっています。
-Vue.jsの基本概念から始まり、[リアクティビティシステム](https://ja.vuejs.org/guide/essentials/reactivity-fundamentals)やComposition APIなど、Vue 3の重要な機能についても丁寧に解説しています。
+とりあえず Nuxt を触ってみるというよりは、Nuxt を理解するための基礎を体系的に学べる構成になっています。
+Vue の基本概念から始まり、[リアクティビティシステム](https://ja.vuejs.org/guide/essentials/reactivity-fundamentals)やComposition APIなど、Vue 3の重要な機能についても丁寧に解説しています。
 
 ### 2. インタラクティブな学習環境
 
@@ -47,14 +47,14 @@ Vue.jsの基本概念から始まり、[リアクティビティシステム](ht
 
 ## まとめ
 
-本チュートリアルは、Vue.jsとNuxtの基礎を効率的に学べる貴重な日本語リソースです。
-ブラウザですぐに始められる手軽さと、体系的な学習内容で、Nuxt入門者にとって最適な教材となっています。
+本チュートリアルは、Vue と Nuxt の基礎を効率的に学べる貴重な日本語リソースです。
+ブラウザですぐに始められる手軽さと、体系的な学習内容で、Nuxt 入門者にとって最適な教材となっています。
 
 1人で始めるのは、ちょっと不安という方向けに、[ナイトウ](https://twitter.com/engineer_naito) さん主催で開催されるもくもく会もご案内します。
 
 - 開催日時：2024年10月25日〜27日
-- 対象：Nuxt・Vueを学びたい方
-- 内容：Nuxt Tutorialに沿った共同学習
+- 対象：Nuxt・Vue を学びたい方
+- 内容：Nuxt Tutorial に沿った共同学習
 - 参加方法：[chibivue land Discord](https://x.com/ubugeeei/status/1848955566820917519)
 
 ぜひ実際にチュートリアルに取り組んで、モダンなWeb開発の世界を体験してみてください。このチュートリアルを通じて、Nuxtの基礎を確実に身につけることができるはずです。
